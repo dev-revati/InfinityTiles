@@ -1,6 +1,7 @@
 ![memory2github](https://user-images.githubusercontent.com/115371216/206565801-1c5d61b4-1ecb-4a8c-ae5e-db0aaa1d3e19.png)
-# GravityTiles
+# Infinity Tiles
 iOS app Game compatible with iOS 14.0 and above
+https://apps.apple.com/us/app/id1658870553
 
 Play this endless game of matching pairs of tiles to train your brain while matching pairs of tiles while new ones slide in from above to fill up the 4x4 field of tiles
 
